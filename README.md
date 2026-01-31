@@ -1,5 +1,9 @@
 # 🛰️ APEX: Sovereign Risk Intelligence Terminal
 
+
+https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
+
+
 [Version française ci-dessous]
 
 **APEX** is a quantitative monitoring solution designed to model and forecast global macro-financial stress. It transforms raw data from international institutions into an interactive, predictive terminal for decision-makers.
