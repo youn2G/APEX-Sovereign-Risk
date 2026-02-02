@@ -10,9 +10,9 @@ https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 **APEX** est un outil qui analyse la santé économique des pays pour prévoir les crises financières. Il transforme des montagnes de données complexes en un tableau de bord simple et visuel pour aider à prendre les bonnes décisions.
 
 ## 🎯 Ce que fait l'outil
-* **Note de santé (Scoring) :** Il calcule une note de risque pour chaque pays basée sur sa dette, son inflation et sa stabilité.
-* **Prévisions :** Il anticipe si la situation économique d'un pays va s'améliorer ou se dégrader à un horizon de 6 mois.
-* **Aide à la décision :** Il permet d'identifier rapidement les zones de danger avant qu'une crise ne survienne.
+* **Note de santé (Scoring) :** il calcule une note de risque pour chaque pays basée sur sa dette, son inflation et sa stabilité.
+* **Prévisions :** il anticipe si la situation économique d'un pays va s'améliorer ou se dégrader à un horizon de 6 mois.
+* **Aide à la décision :** il permet d'identifier rapidement les zones de danger avant qu'une crise ne survienne.
 
 ## 🛠️ Stack Technique (Détails)
 * **Langage & Environnement :** Python 3.10.
