@@ -9,9 +9,9 @@ https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 **APEX** is a quantitative monitoring solution designed to model and forecast global macro-financial stress. It transforms raw data from international institutions into an interactive, predictive terminal for decision-makers.
 
 ## 🧠 Key Features
-- **Dynamic risk scoring:** A composite index based on 4 structural pillars (Solvency, Liquidity, Stability, Inflation).
+- **Dynamic risk scoring:** a composite index based on 4 structural pillars (solvency, liquidity, stability, inflation).
 - **Predictive engine (ML):** Time-Series regression modeling to forecast risk trajectories at 6 months.
-- **Institutional UI/UX:** Minimalist terminal design inspired by Bloomberg and Reuters.
+- **Institutional UI/UX:** minimalist terminal design inspired by Bloomberg and Reuters.
 
 ## 💻 Tech Stack
 - **Language:** Python 3.10
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 
 ---
 
-# 🇫🇷 APEX : Terminal d'Intelligence sur le Risque Souverain
+# 🇫🇷 APEX : Terminal d'intelligence sur le risque souverain
 
 **APEX** est une solution de monitoring quantitatif conçue pour modéliser et prévoir le stress macro-financier mondial. Il transforme les données brutes des institutions internationales en un terminal interactif et prédictif.
 
