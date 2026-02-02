@@ -4,37 +4,33 @@
 https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 
 
-# 📈 APEX | Sovereign Risk Intelligence Terminal
+# 📈 APEX | Tableau de bord du risque financier mondial
+
+## ⚡ En bref
+**APEX** est un outil qui analyse la santé économique des pays pour prévoir les crises financières. Il transforme des montagnes de données complexes en un tableau de bord simple et visuel pour aider à prendre les bonnes décisions.
+
+## 🎯 Ce que fait l'outil
+* **Note de santé (Scoring) :** Il calcule une note de risque pour chaque pays basée sur sa dette, son inflation et sa stabilité.
+* **Prévisions :** Il anticipe si la situation économique d'un pays va s'améliorer ou se dégrader à un horizon de 6 mois.
+* **Aide à la décision :** Il permet d'identifier rapidement les zones de danger avant qu'une crise ne survienne.
+
+## 🛠️ Stack Technique (Détails)
+* **Langage & Environnement :** Python 3.10.
+* [cite_start]**Data Engineering :** **Pandas** & **NumPy** pour le nettoyage et la structuration des données macro-financières[cite: 8].
+* [cite_start]**Intelligence Artificielle :** Modélisation prédictive via **Scikit-Learn** (Régression de séries temporelles et standardisation par Z-Score)[cite: 9, 10].
+* [cite_start]**Interface & Déploiement :** **Streamlit** pour le Dashboard interactif et **Plotly** pour la data-visualisation dynamique[cite: 11].
+
+---
 
 ## ⚡ Overview
-**APEX** is a quantitative monitoring solution designed to model and forecast global macro-financial stress. It transforms raw data from international institutions into an interactive, predictive terminal for decision-makers.
+**APEX** is a tool that monitors the economic health of countries to predict financial crises. It turns complex global data into a simple, visual dashboard to help decision-makers act quickly.
 
 ## 🧠 Key Features
-* **Dynamic Risk Scoring:** A composite index based on 4 structural pillars (Solvency, Liquidity, Stability, Inflation).
-* **Predictive Engine (ML):** Time-Series regression modeling to forecast risk trajectories at a 6-month horizon.
-* **Institutional UI/UX:** Minimalist terminal design inspired by Bloomberg and Reuters.
+* **Risk Scoring:** Automatically grades countries based on debt, inflation, and stability.
+* **Forecasts:** Predicts if a country's economic situation will get better or worse over the next 6 months.
+* **Decision Support:** Quickly identifies danger zones before a crisis hits.
 
-## 🛠️ Tech Stack
-* **Language:** Python 3.10
-* **Data & ML:** Pandas, Scikit-Learn
-* **Interface:** Streamlit & Plotly (Custom CSS)
-
----
-
-# 📈 APEX | Terminal d'intelligence sur le risque souverain
-
-## ⚡ Présentation
-**APEX** est une solution de monitoring quantitatif conçue pour modéliser et prévoir le stress macro-financier mondial. Il transforme les données brutes des institutions internationales en un terminal interactif et prédictif pour l'aide à la décision.
-
-## 🎯 Fonctions Clés
-* **Scoring Dynamique :** Indice composite basé sur 4 piliers structurels (Solvabilité, Liquidité, Stabilité, Inflation).
-* **Moteur Prédictif (ML) :** Modélisation de séries temporelles pour anticiper les trajectoires de risque à 6 mois.
-* **Interface Institutionnelle :** Design minimaliste inspiré des terminaux financiers classiques.
-
-## 🛠️ Stack Technique
-* **Langage :** Python 3.10
-* **Data & ML :** Pandas, Scikit-Learn
-* **Interface :** Streamlit & Plotly (Custom CSS)
-
----
-*Developed by Youn Goger-Le Goux*
+## 🛠️ Technical Stack (Dev Info)
+* **Core :** Python 3.10.
+* [cite_start]**Data & ML :** **Pandas**, **NumPy** & **Scikit-Learn** (Time-series forecasting, Z-Score normalization)[cite: 8, 9, 10].
+* [cite_start]**UI/UX :** **Streamlit** framework & **Plotly** for interactive financial charting[cite: 11].
