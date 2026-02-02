@@ -16,9 +16,9 @@ https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 
 ## 🛠️ Stack Technique (Détails)
 * **Langage & Environnement :** Python 3.10.
-* [cite_start]**Data Engineering :** **Pandas** & **NumPy** pour le nettoyage et la structuration des données macro-financières[cite: 8].
-* [cite_start]**Intelligence Artificielle :** Modélisation prédictive via **Scikit-Learn** (Régression de séries temporelles et standardisation par Z-Score)[cite: 9, 10].
-* [cite_start]**Interface & Déploiement :** **Streamlit** pour le Dashboard interactif et **Plotly** pour la data-visualisation dynamique[cite: 11].
+* **Data Engineering :** **Pandas** & **NumPy** pour le nettoyage et la structuration des données macro-financières[cite: 8].
+* **Intelligence Artificielle :** Modélisation prédictive via **Scikit-Learn** (Régression de séries temporelles et standardisation par Z-Score)[cite: 9, 10].
+* **Interface & Déploiement :** **Streamlit** pour le Dashboard interactif et **Plotly** pour la data-visualisation dynamique[cite: 11].
 
 ---
 
@@ -32,5 +32,5 @@ https://github.com/user-attachments/assets/deb545ff-3600-46fc-8be3-c261f2a93567
 
 ## 🛠️ Technical Stack (Dev Info)
 * **Core :** Python 3.10.
-* [cite_start]**Data & ML :** **Pandas**, **NumPy** & **Scikit-Learn** (Time-series forecasting, Z-Score normalization)[cite: 8, 9, 10].
-* [cite_start]**UI/UX :** **Streamlit** framework & **Plotly** for interactive financial charting[cite: 11].
+* **Data & ML :** **Pandas**, **NumPy** & **Scikit-Learn** (Time-series forecasting, Z-Score normalization)[cite: 8, 9, 10].
+* **UI/UX :** **Streamlit** framework & **Plotly** for interactive financial charting[cite: 11].
